@@ -6,7 +6,7 @@ public class Test6 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int n1;
-		System.out.print("숫자를 입력하세요:");
+		System.out.print("숫자를 입력하세요 =>");
 		n1 = sc.nextInt();
 		String jud;
 		if(n1 > 0)
